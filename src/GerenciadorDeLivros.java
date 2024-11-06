@@ -44,7 +44,7 @@ public class GerenciadorDeLivros {
 				
 			}else if(opcao == 4) {
 				
-				System.out.println("Encerrando o programa");
+				System.out.println("finalizando o programa");
 				
 			}else {
 				
